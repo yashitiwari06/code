@@ -1,0 +1,11 @@
+1
+01
+101
+0101
+10101
+
+# line =  odd , j = even print = 1 
+#               j = odd  print = 0
+
+# line = even j = even print = 1
+#             j = odd  print = 0
